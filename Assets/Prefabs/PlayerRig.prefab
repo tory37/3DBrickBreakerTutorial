@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6066c5373259b4e29a18df834d99685c, type: 2}
+  - {fileID: 2100000, guid: fb4832ba691634c3ca6ba46c81e41464, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -147,8 +147,6 @@ MonoBehaviour:
   skewSpeed: 100
   activeCamera: {fileID: 193182968707057106}
   activePaddle: {fileID: 193182968777479159}
-  ballPrefab: {fileID: 8006811177411067750, guid: 163dedcfb31184c55a6806cfd5b90377, type: 3}
-  ballPreLaunchPrefab: {fileID: 8006811177411067772, guid: 95f62a977bc2542068376efca842dd01, type: 3}
 --- !u!54 &193182967346171881
 Rigidbody:
   m_ObjectHideFlags: 0
